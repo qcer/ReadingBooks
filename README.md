@@ -4,11 +4,14 @@
 javascript中比较难于理解的有几块内容：作用域、原形链和继承机制（也即特有的面向对象特效）、异步编程特性。
 
 #### **目录**
-1. [基础篇](https://github.com/qcer/ReadingBooks/blob/master/JavaScript高级程序设计/基础篇.md)
-2. [JS中的对象](https://github.com/qcer/ReadingBooks/blob/master/JavaScript高级程序设计/理解对象.md)
-3. [对象创建](https://github.com/qcer/ReadingBooks/blob/master/JavaScript高级程序设计/对象创建.md)
-4. [继承机制](https://github.com/qcer/ReadingBooks/blob/master/JavaScript高级程序设计/继承机制.md)
-5. [其他]()
+[基础篇](https://github.com/qcer/ReadingBooks/blob/master/JavaScript高级程序设计/基础篇.md)
+[数组API总结](https://github.com/qcer/ReadingBooks/blob/master/JavaScript高级程序设计/array_api.md)
+[字符串API总结](https://github.com/qcer/ReadingBooks/blob/master/JavaScript高级程序设计/string_api.md)
+
+[JS中的对象](https://github.com/qcer/ReadingBooks/blob/master/JavaScript高级程序设计/理解对象.md)
+[对象创建](https://github.com/qcer/ReadingBooks/blob/master/JavaScript高级程序设计/对象创建.md)
+[继承机制](https://github.com/qcer/ReadingBooks/blob/master/JavaScript高级程序设计/继承机制.md)
+[其他]()
 
 #### **杂记**
 

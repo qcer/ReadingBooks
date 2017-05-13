@@ -23,4 +23,6 @@ javascript中比较难于理解的有几块内容：作用域、原形链和继�
 
 
 ### **二、《HTML5揭秘》**
+[html5之表单](https://github.com/qcer/ReadingBooks/blob/master/HTML5揭秘/[html5之表单.md)
+
 [html5离线web](https://github.com/qcer/ReadingBooks/blob/master/HTML5揭秘/离线web.md)

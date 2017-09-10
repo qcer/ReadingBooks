@@ -91,6 +91,10 @@ ES6提供三个新的方法——entries()，keys()和values()——用于遍历
 	// [1, "b"]
 	// [2, "c"]
 
+includes():
+
+Array.prototype.includes方法返回一个布尔值，表示某个数组是否包含给定的值，与字符串的includes方法类似。
+
 	var colors = ["red", "blue", "green"]; // 创建一个包含 3 个字符串的数组
 	colors[colors.length] = "black"; //（在位置 3）添加一种颜色
 
